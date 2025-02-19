@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NFC Prop Tracker</string>
+    <string name="tap_an_nfc_tag_to_scan">Tap an NFC tag to scan</string>
+    <string name="export_csv">Export CSV</string>
+    <string name="nickname">Nickname</string>
+    <string name="tag_id">Tag ID</string>
+    <string name="timestamp">Timestamp</string>
+    <string name="clear">Clear</string>
+</resources>
